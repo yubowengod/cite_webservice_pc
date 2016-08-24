@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\testAndroidCall" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/testAndroidCall.pdb" publishTime="11/04/2013 11:44:21" />
+    <file relUrl="bin/testAndroidCall.dll" publishTime="11/04/2013 11:44:21" />
+    <file relUrl="Web.config" publishTime="11/04/2013 11:44:22" />
+    <file relUrl="WebService1.asmx" publishTime="11/04/2013 11:16:14" />
+  </publishProfile>
+</publishData>

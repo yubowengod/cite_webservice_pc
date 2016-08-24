@@ -1,0 +1,9 @@
+c:\users\bang\documents\visual studio 2010\Projects\testAndroidCall\testAndroidCall\bin\testAndroidCall.dll
+c:\users\bang\documents\visual studio 2010\Projects\testAndroidCall\testAndroidCall\bin\testAndroidCall.pdb
+c:\users\bang\documents\visual studio 2010\Projects\testAndroidCall\testAndroidCall\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2010\Projects\testAndroidCall\testAndroidCall\obj\Debug\testAndroidCall.dll
+c:\users\bang\documents\visual studio 2010\Projects\testAndroidCall\testAndroidCall\obj\Debug\testAndroidCall.pdb
+C:\Users\God\Desktop\testAndroidCall\testAndroidCall\bin\testAndroidCall.dll
+C:\Users\God\Desktop\testAndroidCall\testAndroidCall\bin\testAndroidCall.pdb
+C:\Users\God\Desktop\testAndroidCall\testAndroidCall\obj\Debug\testAndroidCall.dll
+C:\Users\God\Desktop\testAndroidCall\testAndroidCall\obj\Debug\testAndroidCall.pdb
